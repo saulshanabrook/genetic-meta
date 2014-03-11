@@ -1,4 +1,4 @@
-# `genetic`
+# `genetic-meta`
 
 Framework for 
 [genetic](http://www.github.com/saulshanabrook/genetic)
