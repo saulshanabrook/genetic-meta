@@ -2,7 +2,7 @@
 
 Framework for 
 [genetic](http://www.github.com/saulshanabrook/genetic)
-which uses genetic algorithms to optomize the efficiency of
+which uses genetic algorithms to optimize the efficiency of
 other genetic algorithms.
 
 ## License
